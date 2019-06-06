@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "em-cloud-dashboard-ui"
+		},
+		{
+			"path": "em-cloud-dashboard-service"
+		}
+	],
+	"settings": {}
+}
